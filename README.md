@@ -1,2 +1,3 @@
 # drenet
-DRENet是一个去中心化资源交易网络，使用改进的IPFS提供CDN，基于tendermint开发用于交易的公链，资源交易使用端到端加解解密的方案。
+drenet是一个去中心化资源交易网路，实现资源自由安全交易，系统的运行由社区提供基础设施和可交易资源并获取回报。
+参考[white paper](https://github.com/drenetio/drenet/blob/master/paper/whitepaper.md)
